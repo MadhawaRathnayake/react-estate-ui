@@ -32,15 +32,15 @@ function Filter() {
                 </div>
                 <div className='item'>
                     <label htmlFor='minPrice'>Min Price</label>
-                    <input type='number' id='minPrice' name='minPrice' placeholder='any' />
+                    <input type='number' id='minPrice' name='minPrice' placeholder='Any' />
                 </div>
                 <div className='item'>
                     <label htmlFor='maxPrice'>Max Price</label>
-                    <input type='number' id='maxPrice' name='maxPrice' placeholder='any' />
+                    <input type='number' id='maxPrice' name='maxPrice' placeholder='Any' />
                 </div>
                 <div className='item'>
                     <label htmlFor='madeYear'>Made Year</label>
-                    <input type='number' id='madeYear' name='madeYear' placeholder='any' />
+                    <input type='number' id='madeYear' name='madeYear' placeholder='Any' />
                 </div>
                 <button>
                     <img src='/search.png' />
